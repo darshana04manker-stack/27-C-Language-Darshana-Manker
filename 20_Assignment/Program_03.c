@@ -11,8 +11,8 @@ int main()
     printf("Enter your age:");
     scanf("%d", &age);
 
-    printf("Salary: %.2f\n", salary);
-    printf("Age: %d\n", age);
+    printf("Salary= %.2f\n", salary);
+    printf("Age= %d\n", age);
 
     return 0;
 }
